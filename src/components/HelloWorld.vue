@@ -4,7 +4,7 @@
       <v-img
         class="mb-8 mx-auto"
         height="600"
-        src="@/assets/foodtruck.png"
+        src="@/assets/food.png"
       />
 
       <div class="mb-8 text-center">
