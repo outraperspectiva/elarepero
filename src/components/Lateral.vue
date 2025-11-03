@@ -1,10 +1,9 @@
 <template>
   <v-app>
     <v-navigation-drawer
-      v-model="drawer"
-      color="grey-lighten-3"
+      expand-on-hover
       permanent
-      :rail="rail"
+      rail
     >
       <v-list-item
         prepend-avatar="https://randomuser.me/api/portraits/women/85.jpg"

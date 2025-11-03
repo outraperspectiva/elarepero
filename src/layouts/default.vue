@@ -1,9 +1,10 @@
 <template>
-  <Lateral />
+  <v-card>
+    <Lateral />
+  </v-card>
   <v-main>
     <router-view />
   </v-main>
-
   <AppFooter />
 </template>
 
