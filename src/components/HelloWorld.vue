@@ -2,9 +2,9 @@
   <v-container class="fill-height" max-width="900">
     <div>
       <v-img
-        class="mb-4"
-        height="150"
-        src="@/assets/logo.png"
+        class="mb-8 mx-auto"
+        height="600"
+        src="@/assets/foodtruck.png"
       />
 
       <div class="mb-8 text-center">
