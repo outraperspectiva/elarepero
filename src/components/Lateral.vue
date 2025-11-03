@@ -44,9 +44,9 @@
   const rail = ref(false)
 
   const items = [
-    { title: 'Pedidos', icon: 'mdi-food', to: '/ped' },
-    { title: 'Localização', icon: 'mdi-store-marker', to: '/' },
     { title: 'Funcionamento', icon: 'mdi-store-clock', to: '/' },
+    { title: 'Localização', icon: 'mdi-store-marker', to: '/' },
+    { title: 'Pedidos', icon: 'mdi-food', to: '/ped' },
     { title: 'Promoções', icon: 'mdi-cart-percent', to: '/' },
     { title: 'Venha Buscar  ', icon: 'mdi-truck-delivery', to: '/' },
   ]
